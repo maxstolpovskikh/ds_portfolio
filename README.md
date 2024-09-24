@@ -8,8 +8,8 @@
 
 ### Проекты
 
-* [Исследование рынка недвижимости](https://github.com/maxstolpovskikh/ds_portfolio/real_estate.ipynb)
-* [Надежность заёмщиков](https://github.com/maxstolpovskikh/ds_portfolio/reliability_of_borrowers.ipynb)
+* [Исследование рынка недвижимости](https://github.com/maxstolpovskikh/ds_portfolio/blob/main/real_estate.ipynb)
+* [Надежность заёмщиков](https://github.com/maxstolpovskikh/ds_portfolio/blob/main/reliability_of_borrowers.ipynb)
 
 ### Навыки и технологии
 
