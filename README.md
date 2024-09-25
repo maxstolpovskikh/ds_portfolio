@@ -6,10 +6,13 @@
 
 ⚠️ Я постоянно добавляю новые проекты и обновляю существующие, чтобы отразить мой текущий уровень навыков и интересов в сфере Data Science.
 
+⚠️ Проекты расположены в обратном хронологическом порядке - "чем новее тем выше в списке"
+
 ### Проекты
 
-* [Исследование рынка недвижимости](https://github.com/maxstolpovskikh/ds_portfolio/blob/main/real_estate.ipynb)
-* [Надежность заёмщиков](https://github.com/maxstolpovskikh/ds_portfolio/blob/main/reliability_of_borrowers.ipynb)
+* [🛴 Электросамокаты](https://github.com/maxstolpovskikh/ds_portfolio/blob/main/escooters.ipynb)
+* [🏡 Исследование рынка недвижимости](https://github.com/maxstolpovskikh/ds_portfolio/blob/main/real_estate.ipynb)
+* [👨 Надежность заёмщиков](https://github.com/maxstolpovskikh/ds_portfolio/blob/main/reliability_of_borrowers.ipynb)
 
 ### Навыки и технологии
 
